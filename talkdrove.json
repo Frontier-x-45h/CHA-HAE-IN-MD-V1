@@ -1,0 +1,50 @@
+{
+    "bot-name": "CHA HAE-IN-MD",
+    "description": "CHA HAE-IN-MD made for people on Earth",
+    "logo": "https://files.catbox.moe/xo91yg.jpg",
+    "keywords": ["bot"],
+    "documentation-link": "https://chahaein-pair-code-xzcb.onrender.com/",
+    "owner-verification":"frontierchahaein@gmail.com",
+  
+"env": {
+      "SESSION_ID": {
+        "description": "Put your SESSION_ID here. Make sure it starts with CHA HAE-IN-MD~",
+        "value":"",
+        "required": true
+        
+    },
+      "BOT_NAME": {
+        "description": "write here your bot name.",
+        "required": true,
+        "value": "✦『CHA HAE-IN-MD』✦"    
+    
+        
+    },
+      "MODE": {
+        "description": "Bot mode can be public, private, inbox or groups in small letters (e.g, public)",
+        "value":"private",
+        "required": true  
+        
+   },
+     "DESCRIPTION": {
+      "description": "add caption for menu and other",
+      "value": "*> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ CHA HAE-IN-MD ❄️*",
+      "required": true
+      
+   }, 
+
+    "OWNER_NUMBER": {
+      "description": "put the owner number for bot.",
+      "value": "263788521064"
+      "required": true
+      
+   },
+    "OWNER_NAME": {
+      "description": "Enter your name here",
+      "value": "",
+      "required": true
+        
+      }
+    }
+  
+  }  
